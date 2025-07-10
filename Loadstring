@@ -74,5 +74,5 @@ tween.Completed:Connect(function()
         wait(0.05)
     end
     screenGui:Destroy()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/Main.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowingGarden/Pet-Visual/refs/heads/main/loadstring"))()
 end)
